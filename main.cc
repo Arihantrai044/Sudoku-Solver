@@ -2,7 +2,7 @@
  ******************************************************************************
  *  fileName    :   main.cc
  *
- *  Author      :   Aditya Shevade <aditya.shevade@gmail.com>
+ *  Author      :   Arihant Rai <arihantrai044@gmail.com>
  *  Version     :   1.0.1
  *
  *  Created     :   09/04/2011
